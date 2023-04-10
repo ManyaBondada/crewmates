@@ -10,7 +10,7 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] **A create form allows users to add new cremates**
+- [x] **A create form allows users to add new crewmates**
 - [x] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
 - [x] **The site displays a summary page of all the user's added crewmates**
 - [x] **A previously created crewmate can be updated and deleted from the crewmate list**
