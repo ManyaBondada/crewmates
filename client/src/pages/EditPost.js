@@ -31,19 +31,6 @@ const EditPost = () => {
         window.location = "/";
     }
 
-    // useEffect(() => { // fills form with existing values based on id
-    //     const getPost = async () => {
-    //         const data = await supabase
-    //             .from('crewmates')
-    //             .select('*')
-    //             .eq('id', id)
-    //             .single();
-    //         setPost(data);
-    //     }
-    //     getPost();
-    // }, [id]);
-
-
     const deletePost = async (event) => {
         event.preventDefault();
     
